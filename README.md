@@ -31,18 +31,6 @@ A powerful **AWS Lex-based chatbot** designed to interact with users through nat
 ![Bot Screenshot](path/to/screenshot.png)
 ```
 
-## 📂 Project Structure
-
-```
-AWS-Lex-Chat-Bot/
-│
-├── lambda_function/         # AWS Lambda function for business logic
-│   └── chatbot_handler.py   # Code to handle user input
-├── bot_config/              # AWS Lex bot configuration files
-├── README.md                # Project documentation
-└── deploy.sh                # Shell script to deploy the bot to AWS
-```
-
 ## 🚀 How to Run
 
 1. **Clone the repository**
